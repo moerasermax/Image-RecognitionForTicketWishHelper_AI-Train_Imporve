@@ -1,0 +1,2 @@
+# Image-RecognitionForTicketWishHelper_AI-Train_Imporve
+改進方式
